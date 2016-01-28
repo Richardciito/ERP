@@ -1,0 +1,17 @@
+{
+  "name": "codehispano",
+  "authors": [
+    "Richard Giovani Medina Esteba <richard.medina.es@gmail.com>"
+  ],
+  "description": "cms",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "codehispano.app",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "bootstrap-material-design": "~0.5.7"
+  }
+}
